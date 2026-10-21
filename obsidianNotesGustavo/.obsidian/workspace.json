@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90fa29e0bf23d095",
@@ -191,7 +190,7 @@
   },
   "active": "d1b0f774e8218456",
   "lastOpenFiles": [
-    "projects/o multiverso.md",
+    "projects/pequeno pirata.md",
     "progjogos/github.md",
     "Bem-vindo.md",
     "projects",
